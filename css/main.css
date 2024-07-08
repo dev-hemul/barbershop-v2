@@ -1,0 +1,19 @@
+.page-header {
+  display: flex;
+  flex-direction: column;
+  background-color: #242424;
+}
+
+.page-header__logo {
+  display: flex;
+  margin: 0 auto;
+  justify-content: center;
+  height: 85px;
+}
+
+.page-header__logo-image {
+  width: 226px;
+  height: 85px;
+}
+
+/*# sourceMappingURL=main.css.map */
